@@ -1,0 +1,15 @@
+C:\Users\fpna\source\repos\Erlang Calculator\bin\Debug\Erlang Calculator.exe.config
+C:\Users\fpna\source\repos\Erlang Calculator\bin\Debug\Erlang Calculator.exe
+C:\Users\fpna\source\repos\Erlang Calculator\bin\Debug\Erlang Calculator.pdb
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.csproj.AssemblyReference.cache
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang_Calculator.Erlang_C.resources
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang_Calculator.Properties.Resources.resources
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.csproj.GenerateResource.cache
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.exe
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.pdb
+C:\Users\fpna\source\repos\Erlang Calculator\bin\Debug\Erlang Calculator.exe.manifest
+C:\Users\fpna\source\repos\Erlang Calculator\bin\Debug\Erlang Calculator.application
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.exe.manifest
+C:\Users\fpna\source\repos\Erlang Calculator\obj\Debug\Erlang Calculator.application
